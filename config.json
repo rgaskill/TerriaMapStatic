@@ -20,8 +20,7 @@
         "supportEmail-CHANGETHIS": "help@example.com",
         "brandBarElements": [
             "",
-            "<a target=\"_blank\" href=\"http://www.nicta.com.au\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
-            ""
+            "Roarke's Site"
         ],
         "corsProxyBaseUrl": "http://nationalmap.research.nicta.com.au/proxy/",
         "proxyableDomainsUrl": "http://preprod.nationalmap.gov.au/proxyabledomains/"
